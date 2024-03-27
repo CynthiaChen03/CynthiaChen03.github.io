@@ -16,7 +16,6 @@ Education
 * B.Eng. in Information and Computing Science, Xi’an Jiaotong-Liverpool University, 2021-2025(expected)
 * B.Eng. in Information and Computing Science, University of Liverpool, 2021-2025(expected)
 
-
 Research experience
 ======
 
@@ -27,10 +26,8 @@ Explore the role of smartwatches in multi-device visualization: Cross-device vis
   * Responsible for the design application possibility and eventually the development and application of evaluation and feedback, worked in a team to complete the academic paper.
   * Some related results here: [Poster](../images/SURF-2023-0023-Poster.png)
 
-
 Workplace experience
 ======
-
 Spring 2023: Data analysis intern
 -----
   * IICT (Institute of Computing, Chinese Academy of Sciences)
@@ -66,7 +63,6 @@ Skills
 
 Additional projects and experiences
 ======
-
 An Exploration of Suzhou Clay Sculptures (Social Practice)
 -----
  * Responsible for the preliminary public research work, designed and optimized three survey questionnaires, integrated over 70 data, and compiled a report using charts and graphs.
