@@ -54,6 +54,12 @@ Additional projects and experiences
   * Promoted online and offline in multiple ways to expand the influence of clay sculpture: printed and distributed [posters](../images/clay.png) offline for promotion, and create promotional articles online for forwarding.
   * [Some slides I made to present this project.](../files/clay.pdf)
 
+* Some volunteering activities
+<img src="../images/1.png" alt="Your Image" width="300" height="200">
+<img src="../images/2.png" alt="Your Image" width="300" height="200">
+<img src="../images/3.png" alt="Your Image" width="200" height="300">
+<img src="../images/4.png" alt="Your Image" width="200" height="300">
+
 Skills
 ======
 * Java
