@@ -18,9 +18,7 @@ Education
 
 Research experience
 ======
-
-Explore the role of smartwatches in multi-device visualization: Cross-device visualization application (MobileHCI in submission)
-------
+* Explore the role of smartwatches in multi-device visualization: Cross-device visualization application (MobileHCI in submission)
   * Android Studio technology was used to achieve high visual integration and device interaction between smartwatches and smartphones in diverse scenarios such as standing and sitting.
   * Designed simple and efficient user interfaces and seamless device communication to improve the user experience in information synchronization and interaction between the two devices.
   * Responsible for the design application possibility and eventually the development and application of evaluation and feedback, worked in a team to complete the academic paper.
@@ -28,8 +26,7 @@ Explore the role of smartwatches in multi-device visualization: Cross-device vis
 
 Workplace experience
 ======
-Spring 2023: Data analysis intern
------
+* Spring 2023: Data analysis intern
   * IICT (Institute of Computing, Chinese Academy of Sciences)
   * Duties included:
     * Collected data from more than 5 different sources, collated and summarized more than 100 data items.
@@ -39,29 +36,23 @@ Spring 2023: Data analysis intern
 
 Project experience
 ======
-
-Visual Analysis of Multidimensional Evaluation Indicators
-------
+* Visual Analysis of Multidimensional Evaluation Indicators
   * Collected and sorted out the index system, and processed the data of 64 colleges and universities.
   * Optimized the construction process of the index data model using Neo4j to construct a general evaluation graph.
   * Multi-angle analysis and trend prediction through indicator data model construction and visualization.
 
-Research on Automotive Industry Graph (in cooperation with Shanghai Jiao Tong University) 
-------
+* Research on Automotive Industry Graph (in cooperation with Shanghai Jiao Tong University) 
   * Accessed and analyzed more than 30 industry-leading online data, including Deloitte, HSBC and other authoritative agencies-issued vehicle scale chip market reports.
   * Completed a comprehensive automotive chip supply analysis report, and made and presented 20 slides.
   * Utilized XMIND tool to carefully draw logical diagrams and flow charts, adjust the typeset and format of industry reports, and optimize the presentation and professionalism of information.
 
 Additional projects and experiences
 ======
-
-An Exploration of Suzhou Clay Sculptures (Social Practice)
-------
-
- * Responsible for the preliminary public research work, designed and optimized three survey questionnaires, integrated over 70 data, and compiled a report using charts and graphs.
- * Interviewed Kaiya Wang, the inheritor of clay sculpture, collected interview data, and compiled it into an interview report.
- * Promoted online and offline in multiple ways to expand the influence of clay sculpture: printed and distributed [posters](../images/clay.png) offline for promotion, and create promotional articles online for forwarding.
- * [Some slides I made to present this project.](../files/clay.pdf)
+* An Exploration of Suzhou Clay Sculptures (Social Practice)
+  * Responsible for the preliminary public research work, designed and optimized three survey questionnaires, integrated over 70 data, and compiled a report using charts and graphs.
+  * Interviewed Kaiya Wang, the inheritor of clay sculpture, collected interview data, and compiled it into an interview report.
+  * Promoted online and offline in multiple ways to expand the influence of clay sculpture: printed and distributed [posters](../images/clay.png) offline for promotion, and create promotional articles online for forwarding.
+  * [Some slides I made to present this project.](../files/clay.pdf)
 
 Skills
 ======
