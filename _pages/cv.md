@@ -51,15 +51,6 @@ Research on Automotive Industry Graph (in cooperation with Shanghai Jiao Tong Un
   * Completed a comprehensive automotive chip supply analysis report, and made and presented 20 slides.
   * Utilized XMIND tool to carefully draw logical diagrams and flow charts, adjust the typeset and format of industry reports, and optimize the presentation and professionalism of information.
 
-Skills
-======
-* Java
-* HTML, CSS
-* Neo4j
-* Office 
-* MySQL
-* Python
-
 Additional projects and experiences
 ======
 An Exploration of Suzhou Clay Sculptures (Social Practice)
@@ -68,5 +59,21 @@ An Exploration of Suzhou Clay Sculptures (Social Practice)
  * Interviewed Kaiya Wang, the inheritor of clay sculpture, collected interview data, and compiled it into an interview report.
  * Promoted online and offline in multiple ways to expand the influence of clay sculpture: printed and distributed [posters](../images/clay.png) offline for promotion, and create promotional articles online for forwarding.
  * [Some slides I made to present this project.](../files/clay.pdf)
+
+Some volunteers
+------
+![Your Avatar](../images/1.png)
+![Your Avatar](../images/2.png)
+![Your Avatar](../images/3.png)
+![Your Avatar](../images/4.png)
+
+Skills
+======
+* Java
+* HTML, CSS
+* Neo4j
+* Office 
+* MySQL
+* Python
 
   
