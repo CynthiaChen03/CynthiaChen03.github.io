@@ -20,7 +20,7 @@ Research Interest
 =====
 1. Human-Centered Interaction
 1. Data Visualization 
-1. Machine Learning
+1. Natural Language Processing
 1. Reinforcement Learning
 1. Graph Mining
 
