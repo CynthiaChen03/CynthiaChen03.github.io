@@ -16,8 +16,6 @@ Education
 * B.Eng. in Information and Computing Science, Xi’an Jiaotong-Liverpool University, 2021-2025(expected)
 * B.Eng. in Information and Computing Science, University of Liverpool, 2021-2025(expected)
 
-Research Experience
-
 
 Research experience
 ======
