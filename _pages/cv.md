@@ -18,6 +18,7 @@ Education
 
 Research experience
 ======
+
 Explore the role of smartwatches in multi-device visualization: Cross-device visualization application (MobileHCI in submission)
 ------
   * Android Studio technology was used to achieve high visual integration and device interaction between smartwatches and smartphones in diverse scenarios such as standing and sitting.
@@ -53,6 +54,7 @@ Research on Automotive Industry Graph (in cooperation with Shanghai Jiao Tong Un
 
 Additional projects and experiences
 ======
+
 An Exploration of Suzhou Clay Sculptures (Social Practice)
 ------
  * Responsible for the preliminary public research work, designed and optimized three survey questionnaires, integrated over 70 data, and compiled a report using charts and graphs.
