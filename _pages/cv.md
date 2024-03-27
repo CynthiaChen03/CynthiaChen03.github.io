@@ -14,10 +14,18 @@ Education
 * B.Eng. in Information and Computing Science, Xi’an Jiaotong-Liverpool University, 2021-2025(expected)
 * B.Eng. in Information and Computing Science, University of Liverpool, 2021-2025(expected)
 
+Research Experience
 
 
 Work experience
 ======
+Explore the role of smartwatches in multi-device visualization: Cross-device visualization application (MobileHCI in submission)
+-----
+  * Android Studio technology was used to achieve high visual integration and device interaction between smartwatches and smartphones in diverse scenarios such as standing and sitting.
+  * Designed simple and efficient user interfaces and seamless device communication to improve the user experience in information synchronization and interaction between the two devices.
+  * Responsible for the design application possibility and eventually the development and application of evaluation and feedback, worked in a team to complete the academic paper.
+  * Some related result here: [Poster](../images/SURF-2023-0023-Poster.png)
+
 Spring 2023: Data analysis intern
 -----
   * IICT (Institute of Computing, Chinese Academy of Sciences)
