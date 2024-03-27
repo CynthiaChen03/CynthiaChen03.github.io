@@ -55,6 +55,7 @@ Additional projects and experiences
   * [Some slides I made to present this project.](../files/clay.pdf)
 
 * Some volunteering activities
+
 <img src="../images/1.png" alt="Your Image" width="300" height="200">
 <img src="../images/2.png" alt="Your Image" width="300" height="200">
 <img src="../images/3.png" alt="Your Image" width="200" height="300">
