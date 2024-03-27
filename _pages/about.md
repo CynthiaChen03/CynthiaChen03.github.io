@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome here! I am Xinyao Chen. Seeking a visiting student/intern position in Laboratry!"
+title: "Welcome here! I am Xinyao Chen. Seeking a visiting student/intern position in laboratory!"
 author_profile: true
 redirect_from: 
   - /about/
