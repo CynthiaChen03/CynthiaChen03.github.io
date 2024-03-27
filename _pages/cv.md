@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download the Resume of Xinyao Chen here](../files/Xinyao_Chen_CV.pdf)
+
 Education
 ======
 * B.Eng. in Information and Computing Science, Xi’an Jiaotong-Liverpool University, 2021-2025(expected)
