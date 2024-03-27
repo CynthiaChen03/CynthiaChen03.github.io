@@ -2,7 +2,7 @@
 title: "WatchLink: Designing for Synergistic Interactions between Smartwatches and Smartphones"
 collection: MobileHCI (in submission)
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2023-2024
+date: 2024
 ---
 
 This paper was extended by XJTLU's summer research.
