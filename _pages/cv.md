@@ -21,6 +21,7 @@ Research Experience
 
 Research experience
 ======
+
 Explore the role of smartwatches in multi-device visualization: Cross-device visualization application (MobileHCI in submission)
 -----
   * Android Studio technology was used to achieve high visual integration and device interaction between smartwatches and smartphones in diverse scenarios such as standing and sitting.
@@ -31,6 +32,7 @@ Explore the role of smartwatches in multi-device visualization: Cross-device vis
 
 Workplace experience
 ======
+
 Spring 2023: Data analysis intern
 -----
   * IICT (Institute of Computing, Chinese Academy of Sciences)
@@ -42,6 +44,7 @@ Spring 2023: Data analysis intern
 
 Project experience
 ======
+
 Visual Analysis of Multidimensional Evaluation Indicators
 -----
   * Collected and sorted out the index system, and processed the data of 64 colleges and universities.
