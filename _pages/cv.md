@@ -25,7 +25,7 @@ Explore the role of smartwatches in multi-device visualization: Cross-device vis
   * Android Studio technology was used to achieve high visual integration and device interaction between smartwatches and smartphones in diverse scenarios such as standing and sitting.
   * Designed simple and efficient user interfaces and seamless device communication to improve the user experience in information synchronization and interaction between the two devices.
   * Responsible for the design application possibility and eventually the development and application of evaluation and feedback, worked in a team to complete the academic paper.
-  * Some related result here: [Poster](../images/SURF-2023-0023-Poster.png)
+  * Some related results here: [Poster](../images/SURF-2023-0023-Poster.png)
 
 
 Workplace experience
@@ -63,5 +63,15 @@ Skills
 * Office 
 * MySQL
 * Python
+
+Additional projects and experiences
+======
+
+An Exploration of Suzhou Clay Sculptures (Social Practice)
+-----
+ * Responsible for the preliminary public research work, designed and optimized three survey questionnaires, integrated over 70 data, and compiled a report using charts and graphs.
+ * Interviewed Kaiya Wang, the inheritor of clay sculpture, collected interview data, and compiled it into an interview report.
+ * Promoted online and offline in multiple ways to expand the influence of clay sculpture: printed and distributed [posters](../images/clay.png) offline for promotion, and create promotional articles online for forwarding.
+ * [Some slides I made to present this project.](../files/clay.pdf)
 
   
