@@ -62,14 +62,11 @@ An Exploration of Suzhou Clay Sculptures (Social Practice)
 
 Some volunteers
 ------
-![Your Avatar](../images/1.png)
-![Your Avatar](../images/2.png)
-![Your Avatar](../images/3.png)
-![Your Avatar](../images/4.png)
+
 <img src="../images/1.png" alt="Your Image" width="300" height="200">
 <img src="../images/2.png" alt="Your Image" width="300" height="200">
-<img src="../images/3.png" alt="Your Image" width="300" height="200">
-<img src="../images/4.png" alt="Your Image" width="300" height="200">
+<img src="../images/3.png" alt="Your Image" width="200" height="400">
+<img src="../images/4.png" alt="Your Image" width="200" height="400">
 
 Skills
 ======
