@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience 1"
 collection: teaching
 type: "High school homeroom teacher Intern"
 permalink: /teaching/2014-spring-teaching-1
