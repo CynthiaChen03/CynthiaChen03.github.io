@@ -8,6 +8,6 @@ date: 2023
 location: "Suzhou, China"
 ---
 
-<img src="../images/xdf.png" alt="Your Image" width="300" height="200">
+<img src="../images/xdf.png" alt="Your Image" width="200" height="300">
 
 
