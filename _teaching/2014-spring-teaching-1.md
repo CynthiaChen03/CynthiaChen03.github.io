@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "High school homeroom teacher Intern"
 permalink: /teaching/2014-spring-teaching-1
 venue: "New Oriental Education & Technology Group, High School Department"
 date: 2022-01-01
