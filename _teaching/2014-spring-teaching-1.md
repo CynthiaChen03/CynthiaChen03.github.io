@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Intern class teacher "
 collection: teaching
-type: "Undergraduate course"
+type: "High school students course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "New Oriental Education & Technology Group, high school part"
+date: 2023
+location: "Suzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<img src="../images/xdf.jpg" alt="Your Image" width="300" height="200">
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
